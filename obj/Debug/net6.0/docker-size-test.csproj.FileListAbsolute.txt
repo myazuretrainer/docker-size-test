@@ -1,0 +1,15 @@
+C:\Users\katak\Desktop\Intellipaat\docker-size-test\bin\Debug\net6.0\docker-size-test.exe
+C:\Users\katak\Desktop\Intellipaat\docker-size-test\bin\Debug\net6.0\docker-size-test.deps.json
+C:\Users\katak\Desktop\Intellipaat\docker-size-test\bin\Debug\net6.0\docker-size-test.runtimeconfig.json
+C:\Users\katak\Desktop\Intellipaat\docker-size-test\bin\Debug\net6.0\docker-size-test.dll
+C:\Users\katak\Desktop\Intellipaat\docker-size-test\bin\Debug\net6.0\docker-size-test.pdb
+C:\Users\katak\Desktop\Intellipaat\docker-size-test\obj\Debug\net6.0\docker-size-test.csproj.AssemblyReference.cache
+C:\Users\katak\Desktop\Intellipaat\docker-size-test\obj\Debug\net6.0\docker-size-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katak\Desktop\Intellipaat\docker-size-test\obj\Debug\net6.0\docker-size-test.AssemblyInfoInputs.cache
+C:\Users\katak\Desktop\Intellipaat\docker-size-test\obj\Debug\net6.0\docker-size-test.AssemblyInfo.cs
+C:\Users\katak\Desktop\Intellipaat\docker-size-test\obj\Debug\net6.0\docker-size-test.csproj.CoreCompileInputs.cache
+C:\Users\katak\Desktop\Intellipaat\docker-size-test\obj\Debug\net6.0\docker-size-test.dll
+C:\Users\katak\Desktop\Intellipaat\docker-size-test\obj\Debug\net6.0\refint\docker-size-test.dll
+C:\Users\katak\Desktop\Intellipaat\docker-size-test\obj\Debug\net6.0\docker-size-test.pdb
+C:\Users\katak\Desktop\Intellipaat\docker-size-test\obj\Debug\net6.0\docker-size-test.genruntimeconfig.cache
+C:\Users\katak\Desktop\Intellipaat\docker-size-test\obj\Debug\net6.0\ref\docker-size-test.dll
